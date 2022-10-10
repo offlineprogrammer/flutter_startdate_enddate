@@ -1,5 +1,7 @@
 # flutter_startdate_enddate
 
+[![HitCount](https://hits.dwyl.com/offlineprogrammer/flutter_startdate_enddate.svg?style=flat-square&show=unique)](http://hits.dwyl.com/offlineprogrammer/flutter_startdate_enddate)
+
 A new Flutter project.
 
 ## Getting Started
